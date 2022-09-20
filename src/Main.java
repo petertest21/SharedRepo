@@ -7,5 +7,7 @@ public class Main {
         System.out.println("B commit 1");
         System.out.println("B commit 2");
         System.out.println("B commit 3");
+        System.out.println("A commit 1");
+        System.out.println("A commit 2");
     }
 }
