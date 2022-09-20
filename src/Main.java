@@ -5,6 +5,7 @@ public class Main {
         System.out.println("B says hello again ...");
         System.out.println("Another line from A");
         System.out.println("B commit 1");
+        System.out.println("B commit 2");
 
     }
 }
