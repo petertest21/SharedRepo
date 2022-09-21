@@ -5,6 +5,7 @@ public class Main {
         System.out.println("B adds another line");
         System.out.println("B adds a third line");
         System.out.println("A adds another line");
+        System.out.println("New Line from A")
         System.out.println("New line from B");
     }
 }
