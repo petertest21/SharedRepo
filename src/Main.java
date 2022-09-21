@@ -3,7 +3,7 @@ public class Main {
         System.out.println("A Clears Everything");
         System.out.println("B adds a line");
         System.out.println("B adds another line");
-        System.out.println("A adds a line");
+        System.out.println("B adds a third line");
         System.out.println("A adds another line");
 
     }
