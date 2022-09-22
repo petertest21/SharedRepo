@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Another update from A");
         System.out.println("Another update from B");
         System.out.println("Third update from B");
+        System.out.println("Third update from A");
     }
 }
