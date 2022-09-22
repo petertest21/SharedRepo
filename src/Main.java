@@ -1,11 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("A Clears Everything");
-        System.out.println("B adds a line");
-        System.out.println("B adds another line");
-        System.out.println("B adds a third line");
-        System.out.println("A adds another line");
-        System.out.println("New Line from A")
-        System.out.println("New line from B");
+        System.out.println("---------------");
+        System.out.println("Update from B");
     }
 }
